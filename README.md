@@ -1,13 +1,7 @@
-# Node JS Zoom Clone
+Video Conferencing Software
 
-Credit to [Web Dev Simplified](https://www.youtube.com/watch?v=DvlyzDZDEq4)
+A video conferencing software, which allows individuals to visually communicate with one another and has applications in a variety of industries. Users of existing virtual video conferencing software experience issues with internet connectivity, which affects audio and visual quality. Various browsers and operating systems are incompatible with many applications. In this application, security is also crucial. We have improved the shortcomings of previous programmers with the help of WebRTC. The Opus audio codec is used by WebRTC to provide high-fidelity voice. 
 
-### Want to join the BEST JavaScript Course on the planet and learn how to build the projects like Zoom Clone with JavaScript, NodeJS, and MongoDB?
-
-Check out our `Profit With JavaScript Course`    :point_down: 
-
-[Click Here](https://cleverprogrammer.unstacksite.com/pwj?utm_source=github&utm_medium=repo&utm_content=5-aug-live-zoom-clone-youssef-naz&utm_campaign=live-everyday&utm_term=warm)
-
-Made with :heart: by [Naz](https://www.instagram.com/nazdumanskyy/) & [Youssef](https://www.instagram.com/youcef.dev/)
+Made with :heart: by Simarpreet Kaur
 
 
